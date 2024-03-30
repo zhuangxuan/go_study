@@ -795,9 +795,9 @@ main.go
 package main
 
 import (
-	SUB "12-import/sub" //SUB是我们自己重命名的包名
-	//"12-import/sub" //sub是文件名，同时也是包名
-	. "12-import/sub" //.代表用户在调用这个包里面的函数时，不需要使用包名.的形式，不见一使用的
+	SUB "importe/sub" //SUB是我们自己重命名的包名
+	//"importe/sub" //sub是文件名，同时也是包名
+	. "importe/sub" //.代表用户在调用这个包里面的函数时，不需要使用包名.的形式，不见一使用的
 	"fmt"
 )
 

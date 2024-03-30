@@ -7,6 +7,7 @@ func main() {
 	//学生id ==> 学生名字  idNames
 	var idNames map[int]string //定义一个map，此时这个map是不能直接赋值的，它是空的
 
+	// 使用map前，一定要分配空间
 	//2. 分配空间，使用make，可以不指定长度，但是建议直接指定长度，性能更好
 	idScore := make(map[int]float64)   //这个也是正确的
 	idNames = make(map[int]string, 10) //建议使用这种方式

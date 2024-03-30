@@ -33,9 +33,11 @@ func test4() int {
 }
 
 func main() {
-	v1, s1, _ := test2(10, 20, "hello")
-	fmt.Println("v1:", v1, ",s1:", s1)
+	v1, s1, bl := test2(10, 20, "hello")
+	fmt.Println("v1:", v1, ",s1:", s1, ",bl:", bl)
 
-	v3, s3, _ := test3(20, 30, "world")
-	fmt.Println("v3:", v3, ", s3:", s3)
+	v3, s3, s := test3(20, 30, "world")
+	fmt.Println("v3:", v3, ", s3:", s3, ", s:", s)
 }
+
+//
