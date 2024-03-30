@@ -5,7 +5,7 @@ import (
 	"os"
 )
 
-//从命令输入参数，在switch中进行处理dd
+//从命令输入参数，在switch中进行处理
 
 func main() {
 	//C: argc , **argv
