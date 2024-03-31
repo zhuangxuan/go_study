@@ -16,6 +16,7 @@ func main() {
 	//os.Args[1] ==> 第一个参数 ，以此类推
 	for key, cmd := range cmds {
 		fmt.Println("key:", key, ", cmd:", cmd, ", cmds len:", len(cmds))
+
 	}
 
 	if len(cmds) < 2 {
@@ -31,6 +32,9 @@ func main() {
 		fallthrough
 	case "world":
 		fmt.Println("world")
+		fallthrough
+	case "world2":
+		fmt.Println("world2")
 	default:
 		fmt.Println("default called!")
 	}

@@ -6,8 +6,8 @@ import "fmt"
 // 模拟一个一周的枚举
 const (
 	MONDAY    = iota       //0
-	TUESDAY   = iota       //1
-	WEDNESDAY = iota       //2
+	TUESDAY                //1
+	WEDNESDAY              //2
 	THURSDAY               //3  ==> 没有赋值，默认与上一行相同iota ==> 3
 	FRIDAY                 //4
 	SATURDAY               //5

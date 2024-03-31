@@ -52,5 +52,14 @@ func main() {
 	Duke.gender = "男生"
 	Duke.score = 100
 
+	ee := Student{
+		"ee",
+		20,
+		"男",
+		99,
+	}
+	ptr := &ee
+	fmt.Println("ee:", ee, ptr)
+
 	fmt.Println("Duke:", Duke)
 }
