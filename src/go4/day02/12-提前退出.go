@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"runtime"
 	"time"
 )
 
@@ -13,22 +12,20 @@ import (
 func main() {
 	go func() {
 		go func() {
-			func() {
-				fmt.Println("这是子go程内部的函数!")
-				//return //这是返回当前函数
-				//os.Exit(-1) //退出进程
-				runtime.Goexit() //退出子当前go程
-			}()
-
+			for {
+				fmt.Println("子go程内部循环")
+				time.Sleep(1 * time.Second)
+			}
 			fmt.Println("子go程结束!") //这句会打印吗？ 会1：  不打印2
 			fmt.Println("go 2222222222 ")
 
 		}()
-		time.Sleep(2 * time.Second)
+		//time.Sleep(2 * time.Second)
+		//time.Sleep(100 * time.Second)
 		fmt.Println("go 111111111111111")
 	}()
 
 	fmt.Println("这是主go程!")
-	time.Sleep(3 * time.Second)
+	time.Sleep(10000 * time.Second)
 	fmt.Println("OVER!")
 }

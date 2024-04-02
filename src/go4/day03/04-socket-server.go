@@ -38,6 +38,7 @@ func main() {
 	//Read(b []byte) (n int, err error)
 	//cnt：真正读取client发来的数据的长度
 	cnt, err := conn.Read(buf)
+
 	if err != nil {
 		fmt.Println("conn.Read err:", err)
 		return

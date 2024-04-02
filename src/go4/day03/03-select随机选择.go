@@ -17,10 +17,13 @@ func main() {
 	for i := 0; i < 1000; i++ {
 		select {
 		case <-c1:
+			fmt.Println("c1Count", c1Count)
 			c1Count++
 		case <-c2:
+			fmt.Println("c2Count", c2Count)
 			c2Count++
 		case <-c3:
+			fmt.Println("c3Count", c3Count)
 			c3Count++
 		}
 	}

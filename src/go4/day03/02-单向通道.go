@@ -11,6 +11,19 @@ func main() {
 	//- 单向写通道:
 	//var numChanWriteOnly chan<- int
 
+	//numRead <- "hello" //只读通道，不能写
+	//<-numWrite //只写通道，不能读
+
+	//单向通道的应用场景
+	//1. 限制通道的方向，防止误操作
+	//2. 作为函数参数，限制函数的操作
+	//3. 作为函数的返回值，限制函数的操作
+
+	//管道的应用场景
+	//1. 用于多个go程之间的数据传递
+	//2. 用于go程和主go程之间的数据传递
+	//3. 用于多个go程之间的数据共享
+
 	//生产者消费者模型
 	//C: 数组+锁   thread1 : 写， thread2：读
 	//Go: goroutine + channel
@@ -41,7 +54,7 @@ func producer(out chan<- int) {
 
 // consumer 消费者   ===> 提供一个只读的通道
 func consumer(in <-chan int) {
-	//in <- 10  //读通道不允许有写入操作
+	//in <- 10 //读通道不允许有写入操作
 	for v := range in {
 		fmt.Println("从管道读取数据：", v)
 	}

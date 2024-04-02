@@ -34,7 +34,7 @@ func main() {
 
 	//读
 	go func() {
-		for i := 0; i < 50; i++ {
+		for i := 0; i < 40; i++ {
 			fmt.Println("主程序准备读取数据.....")
 			data := <-numsChan1
 			fmt.Println("读取数据:", data)

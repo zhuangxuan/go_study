@@ -12,6 +12,11 @@ type IAttack interface {
 	//Attack1()
 }
 
+type IAttack1 interface {
+	IAttack1()
+	Emit()
+}
+
 // 低等级
 type HumanLowLevel struct {
 	name  string

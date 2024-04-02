@@ -16,6 +16,7 @@ func main() {
 
 	//启动一个go程，负责监听两个channel
 	go func() {
+		// 使用for循环监听
 		for {
 			fmt.Println("监听中.......")
 			select {
@@ -24,7 +25,7 @@ func main() {
 			case data2 := <-chan2:
 				fmt.Println("------------->从chan2读取数据成功, data2:", data2)
 			default:
-				fmt.Println("select default分支called!")
+				//fmt.Println("select default分支called!")
 				time.Sleep(time.Second)
 			}
 		}

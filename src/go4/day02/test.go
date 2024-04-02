@@ -14,6 +14,7 @@ type Son struct {
 
 func main() {
 	s := Son{}
+	s.father.name = "father1"
 	fmt.Println("s.School:", s.School)
 	fmt.Println(s.name)
 	fmt.Println(s.Age)

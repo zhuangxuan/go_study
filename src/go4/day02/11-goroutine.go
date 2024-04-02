@@ -11,7 +11,7 @@ func display(num int) {
 	for {
 		fmt.Println("=============> 这是子go程:", num, "当前count值:", count)
 		count++
-		//time.Sleep(1 * time.Second)
+		time.Sleep(1 * time.Second)
 	}
 }
 

@@ -21,7 +21,8 @@ func main() {
 	//}
 
 	for {
-		v, ok := <-numChan // ok-idom模式判断
+		v, ok := <-numChan    // o
+		fmt.Println("ok", ok) // k-idom模式判断
 		if !ok {
 			fmt.Println("管道已经关闭了，准备退出!")
 			break
