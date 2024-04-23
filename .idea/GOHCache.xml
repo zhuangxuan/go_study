@@ -1,0 +1,3856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="Area">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getArea/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/user/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/user/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/model/model.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="AreaInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/getArea/proto/getArea/getArea.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getArea/proto/getArea/getArea.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="AuthReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/user/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/proto/user/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="AuthResp">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/user/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/proto/user/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="AuthStu">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/controller/house.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Bj38">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/bj38/handler/bj38.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/bj38/proto/bj38/bj38.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/bj38/subscriber/bj38.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Children">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/04-grpc-server.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/day02/01-consul_server.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CommentData">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/house/proto/house/house.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/proto/house/house.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DetailData">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/house/proto/house/house.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/proto/house/house.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DetailReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/house/proto/house/house.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/proto/house/house.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DetailResp">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/house/proto/house/house.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/proto/house/house.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Facility">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getArea/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/user/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/user/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/model/model.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetArea">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/getArea/proto/getArea/getArea.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getArea/handler/getArea.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getArea/proto/getArea/getArea.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getArea/subscriber/getArea.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetCaptcha">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/service/getCaptcha/handler/getCaptcha.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/service/getCaptcha/subscriber/getCaptcha.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/getCaptcha/handler/getCaptcha.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/getCaptcha/subscriber/getCaptcha.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/getCaptcha/handler/getCaptcha.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/getCaptcha/subscriber/getCaptcha.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/getCaptcha/handler/getCaptcha.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/getCaptcha/subscriber/getCaptcha.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetData">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/house/proto/house/house.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/order/proto/userOrder/userOrder.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/proto/house/house.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/proto/userOrder/userOrder.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetImg">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/getImg/proto/getImg/getImg.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getImg/handler/getImg.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getImg/proto/getImg/getImg.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getImg/subscriber/getImg.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/house/proto/house/house.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/order/proto/userOrder/userOrder.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/proto/house/house.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/proto/userOrder/userOrder.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetResp">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/house/proto/house/house.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/order/proto/userOrder/userOrder.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/proto/house/house.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/proto/userOrder/userOrder.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="House">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/house/proto/house/house.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getArea/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/handler/house.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/proto/house/house.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/subscriber/house.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/user/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/user/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/model/model.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="HouseData">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/house/proto/house/house.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/proto/house/house.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="HouseDetail">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/house/proto/house/house.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/proto/house/house.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="HouseImage">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getArea/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/user/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/user/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/model/model.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="HouseStu">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/controller/house.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Houses">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/house/proto/house/house.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/proto/house/house.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Human">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/go4/day02/08-类成员的访问权限/src/08-类继承.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="HumanHighLevel">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/go4/day02/10-多态.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="HumanLowLevel">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/go4/day02/10-多态.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ImgData">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/house/proto/house/house.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/proto/house/house.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ImgReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/house/proto/house/house.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/proto/house/house.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ImgResp">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/house/proto/house/house.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/proto/house/house.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="IndexReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/house/proto/house/house.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/proto/house/house.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="LogStu">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/controller/house.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Master">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/go4/day03/09-结构体标签.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Message">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/bj38/proto/bj38/bj38.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66/proto/test66/test66.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66web/proto/test66/test66.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test77/proto/test66/test66.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Myclient">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第01天（微服务介绍-rpc-protobuf-grpc）/2-源代码/day01/03-design.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="NameData">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/user/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/proto/user/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OrderData">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/order/proto/userOrder/userOrder.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/proto/userOrder/userOrder.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OrderHouse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getArea/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/user/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/user/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/model/model.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OrderStu">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/controller/house.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OrdersData">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/order/proto/userOrder/userOrder.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/proto/userOrder/userOrder.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="People">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第01天（微服务介绍-rpc-protobuf-grpc）/2-源代码/day01/pb/myproto.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Person">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/go4/day02/07-类.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/day02/pb/person.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Ping">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/bj38/proto/bj38/bj38.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66/proto/test66/test66.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66web/proto/test66/test66.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test77/proto/test66/test66.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Pong">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/bj38/proto/bj38/bj38.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66/proto/test66/test66.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66web/proto/test66/test66.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test77/proto/test66/test66.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RegReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/user/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/user/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/proto/user/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RegRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/register/proto/register/register.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/proto/register/register.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RegResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/register/proto/register/register.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/proto/register/register.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RegStu">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/controller/house.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Register">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/register/proto/register/register.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/handler/register.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/proto/register/register.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/subscriber/register.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Request">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/getArea/proto/getArea/getArea.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/getImg/proto/getImg/getImg.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/house/proto/house/house.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/order/proto/userOrder/userOrder.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/register/proto/register/register.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/user/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getArea/proto/getArea/getArea.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getImg/proto/getImg/getImg.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/proto/house/house.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/proto/register/register.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/proto/userOrder/userOrder.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/bj38/proto/bj38/bj38.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66/proto/test66/test66.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66web/proto/test66/test66.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test77/proto/test66/test66.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/user/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/web/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/proto/getCaptcha/getCaptcha.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/user/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/user/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/proto/user/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Response">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/getArea/proto/getArea/getArea.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/getImg/proto/getImg/getImg.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/house/proto/house/house.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/order/proto/userOrder/userOrder.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/register/proto/register/register.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/user/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getArea/proto/getArea/getArea.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getImg/proto/getImg/getImg.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/proto/house/house.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/proto/register/register.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/proto/userOrder/userOrder.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/bj38/proto/bj38/bj38.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66/proto/test66/test66.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66web/proto/test66/test66.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test77/proto/test66/test66.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/user/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/web/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/proto/getCaptcha/getCaptcha.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/user/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/user/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/proto/user/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SearchReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/house/proto/house/house.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/proto/house/house.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Son">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/go4/day02/test.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="StatusStu">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/controller/house.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="StreamingRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/bj38/proto/bj38/bj38.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66/proto/test66/test66.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66web/proto/test66/test66.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test77/proto/test66/test66.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="StreamingResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/bj38/proto/bj38/bj38.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66/proto/test66/test66.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66web/proto/test66/test66.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test77/proto/test66/test66.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Student">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/go4/day02/04-结构体.go" />
+              <option value="file://$PROJECT_DIR$/src/go4/day03/08-json.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第01天（微服务介绍-rpc-protobuf-grpc）/2-源代码/day01/pb/myproto.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Student1">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/go4/day02/08-类成员的访问权限/src/08-类继承.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Student_Class">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第01天（微服务介绍-rpc-protobuf-grpc）/2-源代码/day01/pb/myproto.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Student_Teacher">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第01天（微服务介绍-rpc-protobuf-grpc）/2-源代码/day01/pb/myproto.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Teacher">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/go4/day02/08-类成员的访问权限/src/08-类继承.go" />
+              <option value="file://$PROJECT_DIR$/src/go4/day03/09-结构体标签.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第01天（微服务介绍-rpc-protobuf-grpc）/2-源代码/day01/pb/person.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Test66">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66/handler/test66.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66/proto/test66/test66.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66/subscriber/test66.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66web/proto/test66/test66.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test77/proto/test66/test66.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UnimplementedBj38Server">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第01天（微服务介绍-rpc-protobuf-grpc）/2-源代码/day01/pb/myproto.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UnimplementedHelloServer">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/day02/pb/person.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UnimplementedSayNameServer">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第01天（微服务介绍-rpc-protobuf-grpc）/2-源代码/day01/pb/person.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UpdateReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/order/proto/userOrder/userOrder.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/user/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/proto/userOrder/userOrder.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UpdateResp">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/order/proto/userOrder/userOrder.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/user/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/proto/userOrder/userOrder.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UpdateStu">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/controller/house.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UploadData">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/user/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/proto/user/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UploadReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/user/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/proto/user/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UploadResp">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/user/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/proto/user/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/go4/day04/chatroom.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/user/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getArea/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/handler/user.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/subscriber/user.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/user/handler/user.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/user/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/user/subscriber/user.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/web/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/user/handler/user.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/user/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/user/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/user/subscriber/user.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/user/handler/user.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/user/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/user/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/user/subscriber/user.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/model/model.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/proto/user/user.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UserData">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/model/modelFunc.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UserInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/user/proto/user/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/proto/user/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UserOrder">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/order/proto/userOrder/userOrder.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/handler/userOrder.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/proto/userOrder/userOrder.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/subscriber/userOrder.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="World">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第01天（微服务介绍-rpc-protobuf-grpc）/2-源代码/day01/01-server.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="bj38Client">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第01天（微服务介绍-rpc-protobuf-grpc）/2-源代码/day01/pb/myproto.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="bj38Handler">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/bj38/proto/bj38/bj38.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="bj38PingPongStream">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/bj38/proto/bj38/bj38.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="bj38Service">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/bj38/proto/bj38/bj38.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="bj38ServicePingPong">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/bj38/proto/bj38/bj38.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="bj38ServiceStream">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/bj38/proto/bj38/bj38.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="bj38StreamStream">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/bj38/proto/bj38/bj38.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="father">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/go4/day02/test.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="getAreaHandler">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/getArea/proto/getArea/getArea.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getArea/proto/getArea/getArea.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="getAreaService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/getArea/proto/getArea/getArea.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getArea/proto/getArea/getArea.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="getCaptchaHandler">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="getCaptchaService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="getImgHandler">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/getImg/proto/getImg/getImg.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getImg/proto/getImg/getImg.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="getImgService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/getImg/proto/getImg/getImg.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getImg/proto/getImg/getImg.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="helloClient">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/day02/pb/person.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="houseHandler">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/house/proto/house/house.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/proto/house/house.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="houseService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/house/proto/house/house.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/proto/house/house.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="registerHandler">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/register/proto/register/register.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/proto/register/register.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="registerService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/register/proto/register/register.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/proto/register/register.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="sayNameClient">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第01天（微服务介绍-rpc-protobuf-grpc）/2-源代码/day01/pb/person.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="test66Handler">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66/proto/test66/test66.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66web/proto/test66/test66.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test77/proto/test66/test66.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="test66PingPongStream">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66/proto/test66/test66.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66web/proto/test66/test66.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test77/proto/test66/test66.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="test66Service">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66/proto/test66/test66.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66web/proto/test66/test66.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test77/proto/test66/test66.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="test66ServicePingPong">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66/proto/test66/test66.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66web/proto/test66/test66.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test77/proto/test66/test66.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="test66ServiceStream">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66/proto/test66/test66.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66web/proto/test66/test66.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test77/proto/test66/test66.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="test66StreamStream">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66/proto/test66/test66.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66web/proto/test66/test66.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test77/proto/test66/test66.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="userHandler">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/user/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/user/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/web/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/user/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/user/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/proto/user/user.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="userOrderHandler">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/order/proto/userOrder/userOrder.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/proto/userOrder/userOrder.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="userOrderService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/order/proto/userOrder/userOrder.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/proto/userOrder/userOrder.micro.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="userService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/user/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/user/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/web/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/user/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/user/proto/user/user.micro.go" />
+              <option value="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/proto/user/user.micro.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/12-import/add/add.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202610" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/12-import/sub/sub.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202610" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/12-import/sub/uitils.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202610" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day01/1-变量.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202610" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day01/10-函数.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202611" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day01/11-内存逃逸.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202611" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day01/12-import/add/add.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202611" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day01/12-import/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202611" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day01/12-import/sub/sub.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202611" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day01/12-import/sub/uitils.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202611" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day01/2-自增.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202611" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day01/3-指针.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202611" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day01/4-不支持的语法.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202611" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day01/5-string.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202611" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day01/6-定长数组.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202611" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day01/7-切片1.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202611" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day01/8-切片2.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202611" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day01/9-字典.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202611" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day01/hello.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202611" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day02/01-switch.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202622" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day02/02-标签LABEL.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202622" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day02/03-枚举-iota.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202622" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day02/04-结构体.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202623" />
+              <option name="schema">
+                <list>
+                  <option value="Student" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day02/05-init/add/add.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202623" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day02/05-init/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202623" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day02/05-init/sub/sub.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202623" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day02/05-init/sub/uitils.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202623" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day02/06-延迟defer.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202623" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day02/07-类.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202623" />
+              <option name="schema">
+                <list>
+                  <option value="Person" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day02/08-类成员的访问权限/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202623" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day02/08-类成员的访问权限/src/08-类继承.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202623" />
+              <option name="schema">
+                <list>
+                  <option value="Human" />
+                  <option value="Student1" />
+                  <option value="Teacher" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day02/09-接口.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202623" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day02/10-多态.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202623" />
+              <option name="schema">
+                <list>
+                  <option value="HumanLowLevel" />
+                  <option value="HumanHighLevel" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day02/11-goroutine.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202623" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day02/12-提前退出.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202623" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day02/13-无缓冲通道.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202623" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day02/14-有缓冲通道.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202624" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day02/15-for-range读取管道.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202624" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day02/test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202624" />
+              <option name="schema">
+                <list>
+                  <option value="father" />
+                  <option value="Son" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day03/01-判断管道是否关闭.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202624" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day03/02-单向通道.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202624" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day03/03-select.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202624" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day03/03-select随机选择.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202624" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day03/04-socket-server.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202624" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day03/05-socket-client.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202624" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day03/06-socket-server-多连接.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202624" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day03/07-http相关/http-client.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202624" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day03/07-http相关/http-server.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202624" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day03/08-json.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202624" />
+              <option name="schema">
+                <list>
+                  <option value="Student" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day03/09-结构体标签.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202624" />
+              <option name="schema">
+                <list>
+                  <option value="Teacher" />
+                  <option value="Master" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day04/chatroom.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202625" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/go4/day04/test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202625" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202943" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/conf/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202953" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/controller/house.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202953" />
+              <option name="schema">
+                <list>
+                  <option value="RegStu" />
+                  <option value="LogStu" />
+                  <option value="UpdateStu" />
+                  <option value="AuthStu" />
+                  <option value="HouseStu" />
+                  <option value="OrderStu" />
+                  <option value="StatusStu" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202953" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/model/model.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202953" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                  <option value="House" />
+                  <option value="Area" />
+                  <option value="Facility" />
+                  <option value="HouseImage" />
+                  <option value="OrderHouse" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/model/modelFunc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202953" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/getArea/proto/getArea/getArea.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202954" />
+              <option name="schema">
+                <list>
+                  <option value="getAreaService" />
+                  <option value="GetArea" />
+                  <option value="getAreaHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/getArea/proto/getArea/getArea.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202954" />
+              <option name="schema">
+                <list>
+                  <option value="Request" />
+                  <option value="Response" />
+                  <option value="AreaInfo" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/getImg/proto/getImg/getImg.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202954" />
+              <option name="schema">
+                <list>
+                  <option value="getImgService" />
+                  <option value="GetImg" />
+                  <option value="getImgHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/getImg/proto/getImg/getImg.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202954" />
+              <option name="schema">
+                <list>
+                  <option value="Request" />
+                  <option value="Response" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/house/proto/house/house.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202954" />
+              <option name="schema">
+                <list>
+                  <option value="houseService" />
+                  <option value="House" />
+                  <option value="houseHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/house/proto/house/house.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202955" />
+              <option name="schema">
+                <list>
+                  <option value="SearchReq" />
+                  <option value="IndexReq" />
+                  <option value="DetailReq" />
+                  <option value="DetailResp" />
+                  <option value="DetailData" />
+                  <option value="HouseDetail" />
+                  <option value="CommentData" />
+                  <option value="GetReq" />
+                  <option value="GetResp" />
+                  <option value="GetData" />
+                  <option value="Houses" />
+                  <option value="ImgReq" />
+                  <option value="ImgResp" />
+                  <option value="ImgData" />
+                  <option value="Request" />
+                  <option value="Response" />
+                  <option value="HouseData" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/order/proto/userOrder/userOrder.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202955" />
+              <option name="schema">
+                <list>
+                  <option value="userOrderService" />
+                  <option value="UserOrder" />
+                  <option value="userOrderHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/order/proto/userOrder/userOrder.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202955" />
+              <option name="schema">
+                <list>
+                  <option value="UpdateReq" />
+                  <option value="UpdateResp" />
+                  <option value="GetReq" />
+                  <option value="GetResp" />
+                  <option value="GetData" />
+                  <option value="OrdersData" />
+                  <option value="Request" />
+                  <option value="Response" />
+                  <option value="OrderData" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/register/proto/register/register.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202955" />
+              <option name="schema">
+                <list>
+                  <option value="registerService" />
+                  <option value="Register" />
+                  <option value="registerHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/register/proto/register/register.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202955" />
+              <option name="schema">
+                <list>
+                  <option value="RegRequest" />
+                  <option value="RegResponse" />
+                  <option value="Request" />
+                  <option value="Response" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/user/proto/user/user.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202956" />
+              <option name="schema">
+                <list>
+                  <option value="userService" />
+                  <option value="User" />
+                  <option value="userHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/proto/user/proto/user/user.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202956" />
+              <option name="schema">
+                <list>
+                  <option value="AuthReq" />
+                  <option value="AuthResp" />
+                  <option value="UploadData" />
+                  <option value="UploadResp" />
+                  <option value="UploadReq" />
+                  <option value="UpdateReq" />
+                  <option value="UpdateResp" />
+                  <option value="NameData" />
+                  <option value="Request" />
+                  <option value="Response" />
+                  <option value="UserInfo" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getArea/handler/getArea.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202956" />
+              <option name="schema">
+                <list>
+                  <option value="GetArea" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getArea/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202956" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getArea/model/model.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202956" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                  <option value="House" />
+                  <option value="Area" />
+                  <option value="Facility" />
+                  <option value="HouseImage" />
+                  <option value="OrderHouse" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getArea/model/modelFunc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202956" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getArea/plugin.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202957" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getArea/proto/getArea/getArea.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202957" />
+              <option name="schema">
+                <list>
+                  <option value="getAreaService" />
+                  <option value="GetArea" />
+                  <option value="getAreaHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getArea/proto/getArea/getArea.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202957" />
+              <option name="schema">
+                <list>
+                  <option value="Request" />
+                  <option value="Response" />
+                  <option value="AreaInfo" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getArea/subscriber/getArea.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202957" />
+              <option name="schema">
+                <list>
+                  <option value="GetArea" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getArea/utils/errmsg.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202957" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getImg/handler/getImg.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202958" />
+              <option name="schema">
+                <list>
+                  <option value="GetImg" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getImg/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202958" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getImg/model/modelFunc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202958" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getImg/plugin.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202959" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getImg/proto/getImg/getImg.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202959" />
+              <option name="schema">
+                <list>
+                  <option value="getImgService" />
+                  <option value="GetImg" />
+                  <option value="getImgHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getImg/proto/getImg/getImg.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202959" />
+              <option name="schema">
+                <list>
+                  <option value="Request" />
+                  <option value="Response" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getImg/subscriber/getImg.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202959" />
+              <option name="schema">
+                <list>
+                  <option value="GetImg" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/getImg/utils/errmsg.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202959" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/handler/house.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202959" />
+              <option name="schema">
+                <list>
+                  <option value="House" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202959" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/model/model.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202960" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                  <option value="House" />
+                  <option value="Area" />
+                  <option value="Facility" />
+                  <option value="HouseImage" />
+                  <option value="OrderHouse" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/model/modelFunc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202960" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/plugin.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202960" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/proto/house/house.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202960" />
+              <option name="schema">
+                <list>
+                  <option value="houseService" />
+                  <option value="House" />
+                  <option value="houseHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/proto/house/house.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202960" />
+              <option name="schema">
+                <list>
+                  <option value="SearchReq" />
+                  <option value="IndexReq" />
+                  <option value="DetailReq" />
+                  <option value="DetailResp" />
+                  <option value="DetailData" />
+                  <option value="HouseDetail" />
+                  <option value="CommentData" />
+                  <option value="GetReq" />
+                  <option value="GetResp" />
+                  <option value="GetData" />
+                  <option value="Houses" />
+                  <option value="ImgReq" />
+                  <option value="ImgResp" />
+                  <option value="ImgData" />
+                  <option value="Request" />
+                  <option value="Response" />
+                  <option value="HouseData" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/house/subscriber/house.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202961" />
+              <option name="schema">
+                <list>
+                  <option value="House" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/handler/register.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202961" />
+              <option name="schema">
+                <list>
+                  <option value="Register" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202961" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/model/model.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202961" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                  <option value="House" />
+                  <option value="Area" />
+                  <option value="Facility" />
+                  <option value="HouseImage" />
+                  <option value="OrderHouse" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/model/modelFunc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202961" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/plugin.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202961" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/proto/register/register.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202962" />
+              <option name="schema">
+                <list>
+                  <option value="registerService" />
+                  <option value="Register" />
+                  <option value="registerHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/proto/register/register.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202962" />
+              <option name="schema">
+                <list>
+                  <option value="RegRequest" />
+                  <option value="RegResponse" />
+                  <option value="Request" />
+                  <option value="Response" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/subscriber/register.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202962" />
+              <option name="schema">
+                <list>
+                  <option value="Register" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/utils/errmsg.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202962" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/register/utils/tools.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202962" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/handler/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202962" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202963" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/model/model.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202963" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                  <option value="House" />
+                  <option value="Area" />
+                  <option value="Facility" />
+                  <option value="HouseImage" />
+                  <option value="OrderHouse" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/model/modelFunc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202963" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/plugin.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202963" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/proto/user/user.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202963" />
+              <option name="schema">
+                <list>
+                  <option value="userService" />
+                  <option value="User" />
+                  <option value="userHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/proto/user/user.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202963" />
+              <option name="schema">
+                <list>
+                  <option value="AuthReq" />
+                  <option value="AuthResp" />
+                  <option value="UploadData" />
+                  <option value="UploadResp" />
+                  <option value="UploadReq" />
+                  <option value="UpdateReq" />
+                  <option value="UpdateResp" />
+                  <option value="NameData" />
+                  <option value="Request" />
+                  <option value="Response" />
+                  <option value="UserInfo" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/subscriber/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202963" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/utils/errmsg.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202963" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/user/utils/tools.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202963" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/handler/userOrder.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202964" />
+              <option name="schema">
+                <list>
+                  <option value="UserOrder" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202964" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/model/model.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202964" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                  <option value="House" />
+                  <option value="Area" />
+                  <option value="Facility" />
+                  <option value="HouseImage" />
+                  <option value="OrderHouse" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/model/modelFunc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202964" />
+              <option name="schema">
+                <list>
+                  <option value="UserData" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/plugin.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202964" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/proto/userOrder/userOrder.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202964" />
+              <option name="schema">
+                <list>
+                  <option value="userOrderService" />
+                  <option value="UserOrder" />
+                  <option value="userOrderHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/proto/userOrder/userOrder.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202964" />
+              <option name="schema">
+                <list>
+                  <option value="UpdateReq" />
+                  <option value="UpdateResp" />
+                  <option value="GetReq" />
+                  <option value="GetResp" />
+                  <option value="GetData" />
+                  <option value="OrdersData" />
+                  <option value="Request" />
+                  <option value="Response" />
+                  <option value="OrderData" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/service/userOrder/subscriber/userOrder.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202965" />
+              <option name="schema">
+                <list>
+                  <option value="UserOrder" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/utils/errmsg.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202966" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/完整代码/ihomebj5q/ihomebj5q/utils/tools.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865202966" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第01天（微服务介绍-rpc-protobuf-grpc）/2-源代码/day01/01-server.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203693" />
+              <option name="schema">
+                <list>
+                  <option value="World" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第01天（微服务介绍-rpc-protobuf-grpc）/2-源代码/day01/02-client.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203693" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第01天（微服务介绍-rpc-protobuf-grpc）/2-源代码/day01/03-design.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203693" />
+              <option name="schema">
+                <list>
+                  <option value="Myclient" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第01天（微服务介绍-rpc-protobuf-grpc）/2-源代码/day01/pb/myproto.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203693" />
+              <option name="schema">
+                <list>
+                  <option value="Student" />
+                  <option value="Student_Teacher" />
+                  <option value="Student_Class" />
+                  <option value="People" />
+                  <option value="bj38Client" />
+                  <option value="UnimplementedBj38Server" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第01天（微服务介绍-rpc-protobuf-grpc）/2-源代码/day01/pb/person.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203693" />
+              <option name="schema">
+                <list>
+                  <option value="Teacher" />
+                  <option value="sayNameClient" />
+                  <option value="UnimplementedSayNameServer" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/04-grpc-server.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203697" />
+              <option name="schema">
+                <list>
+                  <option value="Children" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/05-grpc-client.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203697" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/bj38/handler/bj38.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203697" />
+              <option name="schema">
+                <list>
+                  <option value="Bj38" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/bj38/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203698" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/bj38/plugin.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203698" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/bj38/proto/bj38/bj38.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203698" />
+              <option name="schema">
+                <list>
+                  <option value="bj38Service" />
+                  <option value="bj38ServiceStream" />
+                  <option value="bj38ServicePingPong" />
+                  <option value="Bj38" />
+                  <option value="bj38Handler" />
+                  <option value="bj38StreamStream" />
+                  <option value="bj38PingPongStream" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/bj38/proto/bj38/bj38.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203698" />
+              <option name="schema">
+                <list>
+                  <option value="Message" />
+                  <option value="Request" />
+                  <option value="Response" />
+                  <option value="StreamingRequest" />
+                  <option value="StreamingResponse" />
+                  <option value="Ping" />
+                  <option value="Pong" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/bj38/subscriber/bj38.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203698" />
+              <option name="schema">
+                <list>
+                  <option value="Bj38" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/day02/01-consul_server.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203699" />
+              <option name="schema">
+                <list>
+                  <option value="Children" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/day02/02-consul_client.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203699" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/day02/03-consul_deregister.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203699" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第02天（micro-consul-grpc-gomicro框架）/2-源代码/day02/pb/person.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203699" />
+              <option name="schema">
+                <list>
+                  <option value="Person" />
+                  <option value="helloClient" />
+                  <option value="UnimplementedHelloServer" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/bj38web/web/controller/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203702" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/bj38web/web/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203702" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/bj38web/web/utils/error.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203702" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66/handler/test66.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203730" />
+              <option name="schema">
+                <list>
+                  <option value="Test66" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203730" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66/plugin.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203730" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66/proto/test66/test66.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203730" />
+              <option name="schema">
+                <list>
+                  <option value="test66Service" />
+                  <option value="test66ServiceStream" />
+                  <option value="test66ServicePingPong" />
+                  <option value="Test66" />
+                  <option value="test66Handler" />
+                  <option value="test66StreamStream" />
+                  <option value="test66PingPongStream" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66/proto/test66/test66.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203730" />
+              <option name="schema">
+                <list>
+                  <option value="Message" />
+                  <option value="Request" />
+                  <option value="Response" />
+                  <option value="StreamingRequest" />
+                  <option value="StreamingResponse" />
+                  <option value="Ping" />
+                  <option value="Pong" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66/subscriber/test66.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203731" />
+              <option name="schema">
+                <list>
+                  <option value="Test66" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66web/01-main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203731" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66web/proto/test66/test66.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203731" />
+              <option name="schema">
+                <list>
+                  <option value="test66Service" />
+                  <option value="test66ServiceStream" />
+                  <option value="test66ServicePingPong" />
+                  <option value="Test66" />
+                  <option value="test66Handler" />
+                  <option value="test66StreamStream" />
+                  <option value="test66PingPongStream" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test66web/proto/test66/test66.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203731" />
+              <option name="schema">
+                <list>
+                  <option value="Message" />
+                  <option value="Request" />
+                  <option value="Response" />
+                  <option value="StreamingRequest" />
+                  <option value="StreamingResponse" />
+                  <option value="Ping" />
+                  <option value="Pong" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test77/handler/handler.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203732" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test77/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203732" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test77/plugin.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203732" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test77/proto/test66/test66.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203732" />
+              <option name="schema">
+                <list>
+                  <option value="test66Service" />
+                  <option value="test66ServiceStream" />
+                  <option value="test66ServicePingPong" />
+                  <option value="Test66" />
+                  <option value="test66Handler" />
+                  <option value="test66StreamStream" />
+                  <option value="test66PingPongStream" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第03天（go-mirco框架-gin框架-mvc-REST-Session）/2-源代码/test77/proto/test66/test66.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203733" />
+              <option name="schema">
+                <list>
+                  <option value="Message" />
+                  <option value="Request" />
+                  <option value="Response" />
+                  <option value="StreamingRequest" />
+                  <option value="StreamingResponse" />
+                  <option value="Ping" />
+                  <option value="Pong" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/service/getCaptcha/handler/getCaptcha.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203735" />
+              <option name="schema">
+                <list>
+                  <option value="GetCaptcha" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/service/getCaptcha/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203735" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/service/getCaptcha/model/modelFunc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203735" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/service/getCaptcha/plugin.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203735" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203735" />
+              <option name="schema">
+                <list>
+                  <option value="getCaptchaService" />
+                  <option value="GetCaptcha" />
+                  <option value="getCaptchaHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203735" />
+              <option name="schema">
+                <list>
+                  <option value="Request" />
+                  <option value="Response" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/service/getCaptcha/subscriber/getCaptcha.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203736" />
+              <option name="schema">
+                <list>
+                  <option value="GetCaptcha" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/web/controller/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203737" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/web/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203737" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203737" />
+              <option name="schema">
+                <list>
+                  <option value="getCaptchaService" />
+                  <option value="GetCaptcha" />
+                  <option value="getCaptchaHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203737" />
+              <option name="schema">
+                <list>
+                  <option value="Request" />
+                  <option value="Response" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第04天（图片验证码-redis-开发者平台说明）/2-源代码/bj38web/web/utils/error.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203739" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/getCaptcha/handler/getCaptcha.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203772" />
+              <option name="schema">
+                <list>
+                  <option value="GetCaptcha" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/getCaptcha/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203772" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/getCaptcha/model/modelFunc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203772" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/getCaptcha/plugin.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203772" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203772" />
+              <option name="schema">
+                <list>
+                  <option value="getCaptchaService" />
+                  <option value="GetCaptcha" />
+                  <option value="getCaptchaHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203772" />
+              <option name="schema">
+                <list>
+                  <option value="Request" />
+                  <option value="Response" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/getCaptcha/subscriber/getCaptcha.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203773" />
+              <option name="schema">
+                <list>
+                  <option value="GetCaptcha" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/user/handler/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203773" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/user/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203773" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/user/model/modelFunc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203773" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/user/plugin.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203773" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/user/proto/user/user.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203774" />
+              <option name="schema">
+                <list>
+                  <option value="userService" />
+                  <option value="User" />
+                  <option value="userHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/user/proto/user/user.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203774" />
+              <option name="schema">
+                <list>
+                  <option value="Request" />
+                  <option value="Response" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/user/subscriber/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203774" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/service/user/utils/error.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203774" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/web/controller/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203775" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/web/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203775" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/web/model/modelFunc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203775" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203775" />
+              <option name="schema">
+                <list>
+                  <option value="getCaptchaService" />
+                  <option value="GetCaptcha" />
+                  <option value="getCaptchaHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203776" />
+              <option name="schema">
+                <list>
+                  <option value="Request" />
+                  <option value="Response" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/web/proto/user/user.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203776" />
+              <option name="schema">
+                <list>
+                  <option value="userService" />
+                  <option value="User" />
+                  <option value="userHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/web/proto/user/user.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203776" />
+              <option name="schema">
+                <list>
+                  <option value="Request" />
+                  <option value="Response" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第05天（短信验证码-获取绑定数据）/2-源代码/bj38web/web/utils/error.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203777" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/controller/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203807" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203807" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/model/model.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203807" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                  <option value="House" />
+                  <option value="Area" />
+                  <option value="Facility" />
+                  <option value="HouseImage" />
+                  <option value="OrderHouse" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/model/modelFunc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203807" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/proto/getCaptcha/getCaptcha.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203807" />
+              <option name="schema">
+                <list>
+                  <option value="getCaptchaService" />
+                  <option value="GetCaptcha" />
+                  <option value="getCaptchaHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/proto/getCaptcha/getCaptcha.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203808" />
+              <option name="schema">
+                <list>
+                  <option value="Request" />
+                  <option value="Response" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/proto/user/user.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203808" />
+              <option name="schema">
+                <list>
+                  <option value="userService" />
+                  <option value="User" />
+                  <option value="userHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/proto/user/user.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203808" />
+              <option name="schema">
+                <list>
+                  <option value="Request" />
+                  <option value="Response" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/test2/testInit.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203809" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第06天（gorm操作mysql-创建项目用表）/2-源代码/web/utils/error.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203809" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/getCaptcha/handler/getCaptcha.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203841" />
+              <option name="schema">
+                <list>
+                  <option value="GetCaptcha" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/getCaptcha/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203841" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/getCaptcha/model/modelFunc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203841" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/getCaptcha/plugin.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203842" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203842" />
+              <option name="schema">
+                <list>
+                  <option value="getCaptchaService" />
+                  <option value="GetCaptcha" />
+                  <option value="getCaptchaHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203842" />
+              <option name="schema">
+                <list>
+                  <option value="Request" />
+                  <option value="Response" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/getCaptcha/subscriber/getCaptcha.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203842" />
+              <option name="schema">
+                <list>
+                  <option value="GetCaptcha" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/user/handler/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203842" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/user/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203842" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/user/model/model.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203843" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                  <option value="House" />
+                  <option value="Area" />
+                  <option value="Facility" />
+                  <option value="HouseImage" />
+                  <option value="OrderHouse" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/user/model/modelFunc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203843" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/user/plugin.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203843" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/user/proto/user/user.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203843" />
+              <option name="schema">
+                <list>
+                  <option value="userService" />
+                  <option value="User" />
+                  <option value="userHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/user/proto/user/user.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203843" />
+              <option name="schema">
+                <list>
+                  <option value="RegReq" />
+                  <option value="Request" />
+                  <option value="Response" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/user/subscriber/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203843" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/service/user/utils/error.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203843" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/controller/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203844" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203844" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/model/model.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203844" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                  <option value="House" />
+                  <option value="Area" />
+                  <option value="Facility" />
+                  <option value="HouseImage" />
+                  <option value="OrderHouse" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/model/modelFunc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203844" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203845" />
+              <option name="schema">
+                <list>
+                  <option value="getCaptchaService" />
+                  <option value="GetCaptcha" />
+                  <option value="getCaptchaHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203845" />
+              <option name="schema">
+                <list>
+                  <option value="Request" />
+                  <option value="Response" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/proto/user/user.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203845" />
+              <option name="schema">
+                <list>
+                  <option value="userService" />
+                  <option value="User" />
+                  <option value="userHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/proto/user/user.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203845" />
+              <option name="schema">
+                <list>
+                  <option value="RegReq" />
+                  <option value="Request" />
+                  <option value="Response" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/test2/testInit.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203846" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/utils/error.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203846" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第07天（注册业务微服务-获取地域信息-Cookie-Session-用户登录）/2-源代码/bj38web/web/utils/utils.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203846" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/getCaptcha/handler/getCaptcha.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203877" />
+              <option name="schema">
+                <list>
+                  <option value="GetCaptcha" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/getCaptcha/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203877" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/getCaptcha/model/modelFunc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203877" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/getCaptcha/plugin.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203877" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203877" />
+              <option name="schema">
+                <list>
+                  <option value="getCaptchaService" />
+                  <option value="GetCaptcha" />
+                  <option value="getCaptchaHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/getCaptcha/proto/getCaptcha/getCaptcha.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203877" />
+              <option name="schema">
+                <list>
+                  <option value="Request" />
+                  <option value="Response" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/getCaptcha/subscriber/getCaptcha.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203877" />
+              <option name="schema">
+                <list>
+                  <option value="GetCaptcha" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/user/handler/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203878" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/user/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203878" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/user/model/model.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203878" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                  <option value="House" />
+                  <option value="Area" />
+                  <option value="Facility" />
+                  <option value="HouseImage" />
+                  <option value="OrderHouse" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/user/model/modelFunc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203878" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/user/plugin.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203878" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/user/proto/user/user.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203878" />
+              <option name="schema">
+                <list>
+                  <option value="userService" />
+                  <option value="User" />
+                  <option value="userHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/user/proto/user/user.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203878" />
+              <option name="schema">
+                <list>
+                  <option value="RegReq" />
+                  <option value="Request" />
+                  <option value="Response" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/user/subscriber/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203878" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/service/user/utils/error.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203879" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/controller/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203880" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203880" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/model/model.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203880" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                  <option value="House" />
+                  <option value="Area" />
+                  <option value="Facility" />
+                  <option value="HouseImage" />
+                  <option value="OrderHouse" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/model/modelFunc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203880" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203880" />
+              <option name="schema">
+                <list>
+                  <option value="getCaptchaService" />
+                  <option value="GetCaptcha" />
+                  <option value="getCaptchaHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/proto/getCaptcha/getCaptcha.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203880" />
+              <option name="schema">
+                <list>
+                  <option value="Request" />
+                  <option value="Response" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/proto/user/user.micro.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203881" />
+              <option name="schema">
+                <list>
+                  <option value="userService" />
+                  <option value="User" />
+                  <option value="userHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/proto/user/user.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203881" />
+              <option name="schema">
+                <list>
+                  <option value="RegReq" />
+                  <option value="Request" />
+                  <option value="Response" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/test2/testInit.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203883" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/utils/error.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203883" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/第10阶段-GO语言微服务项目/第08天（用户登录-获取细腻-改名-中间件）/2-源代码/bj38web/web/utils/utils.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713865203883" />
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="area" value="Area" />
+        <entry key="area_info" value="AreaInfo" />
+        <entry key="auth_req" value="AuthReq" />
+        <entry key="auth_resp" value="AuthResp" />
+        <entry key="auth_stu" value="AuthStu" />
+        <entry key="bj38" value="Bj38" />
+        <entry key="bj38_client" value="bj38Client" />
+        <entry key="bj38_handler" value="bj38Handler" />
+        <entry key="bj38_ping_pong_stream" value="bj38PingPongStream" />
+        <entry key="bj38_service" value="bj38Service" />
+        <entry key="bj38_service_ping_pong" value="bj38ServicePingPong" />
+        <entry key="bj38_service_stream" value="bj38ServiceStream" />
+        <entry key="bj38_stream_stream" value="bj38StreamStream" />
+        <entry key="children" value="Children" />
+        <entry key="comment_data" value="CommentData" />
+        <entry key="detail_data" value="DetailData" />
+        <entry key="detail_req" value="DetailReq" />
+        <entry key="detail_resp" value="DetailResp" />
+        <entry key="facility" value="Facility" />
+        <entry key="father" value="father" />
+        <entry key="get_area" value="GetArea" />
+        <entry key="get_area_handler" value="getAreaHandler" />
+        <entry key="get_area_service" value="getAreaService" />
+        <entry key="get_captcha" value="GetCaptcha" />
+        <entry key="get_captcha_handler" value="getCaptchaHandler" />
+        <entry key="get_captcha_service" value="getCaptchaService" />
+        <entry key="get_data" value="GetData" />
+        <entry key="get_img" value="GetImg" />
+        <entry key="get_img_handler" value="getImgHandler" />
+        <entry key="get_img_service" value="getImgService" />
+        <entry key="get_req" value="GetReq" />
+        <entry key="get_resp" value="GetResp" />
+        <entry key="hello_client" value="helloClient" />
+        <entry key="house" value="House" />
+        <entry key="house_data" value="HouseData" />
+        <entry key="house_detail" value="HouseDetail" />
+        <entry key="house_handler" value="houseHandler" />
+        <entry key="house_image" value="HouseImage" />
+        <entry key="house_service" value="houseService" />
+        <entry key="house_stu" value="HouseStu" />
+        <entry key="houses" value="Houses" />
+        <entry key="human" value="Human" />
+        <entry key="human_high_level" value="HumanHighLevel" />
+        <entry key="human_low_level" value="HumanLowLevel" />
+        <entry key="img_data" value="ImgData" />
+        <entry key="img_req" value="ImgReq" />
+        <entry key="img_resp" value="ImgResp" />
+        <entry key="index_req" value="IndexReq" />
+        <entry key="log_stu" value="LogStu" />
+        <entry key="master" value="Master" />
+        <entry key="message" value="Message" />
+        <entry key="myclient" value="Myclient" />
+        <entry key="name_data" value="NameData" />
+        <entry key="order_data" value="OrderData" />
+        <entry key="order_house" value="OrderHouse" />
+        <entry key="order_stu" value="OrderStu" />
+        <entry key="orders_data" value="OrdersData" />
+        <entry key="people" value="People" />
+        <entry key="person" value="Person" />
+        <entry key="ping" value="Ping" />
+        <entry key="pong" value="Pong" />
+        <entry key="reg_req" value="RegReq" />
+        <entry key="reg_request" value="RegRequest" />
+        <entry key="reg_response" value="RegResponse" />
+        <entry key="reg_stu" value="RegStu" />
+        <entry key="register" value="Register" />
+        <entry key="register_handler" value="registerHandler" />
+        <entry key="register_service" value="registerService" />
+        <entry key="request" value="Request" />
+        <entry key="response" value="Response" />
+        <entry key="say_name_client" value="sayNameClient" />
+        <entry key="search_req" value="SearchReq" />
+        <entry key="son" value="Son" />
+        <entry key="status_stu" value="StatusStu" />
+        <entry key="streaming_request" value="StreamingRequest" />
+        <entry key="streaming_response" value="StreamingResponse" />
+        <entry key="student" value="Student" />
+        <entry key="student1" value="Student1" />
+        <entry key="student__class" value="Student_Class" />
+        <entry key="student__teacher" value="Student_Teacher" />
+        <entry key="teacher" value="Teacher" />
+        <entry key="test66" value="Test66" />
+        <entry key="test66_handler" value="test66Handler" />
+        <entry key="test66_ping_pong_stream" value="test66PingPongStream" />
+        <entry key="test66_service" value="test66Service" />
+        <entry key="test66_service_ping_pong" value="test66ServicePingPong" />
+        <entry key="test66_service_stream" value="test66ServiceStream" />
+        <entry key="test66_stream_stream" value="test66StreamStream" />
+        <entry key="unimplemented_bj38_server" value="UnimplementedBj38Server" />
+        <entry key="unimplemented_hello_server" value="UnimplementedHelloServer" />
+        <entry key="unimplemented_say_name_server" value="UnimplementedSayNameServer" />
+        <entry key="update_req" value="UpdateReq" />
+        <entry key="update_resp" value="UpdateResp" />
+        <entry key="update_stu" value="UpdateStu" />
+        <entry key="upload_data" value="UploadData" />
+        <entry key="upload_req" value="UploadReq" />
+        <entry key="upload_resp" value="UploadResp" />
+        <entry key="user" value="User" />
+        <entry key="user_data" value="UserData" />
+        <entry key="user_handler" value="userHandler" />
+        <entry key="user_info" value="UserInfo" />
+        <entry key="user_order" value="UserOrder" />
+        <entry key="user_order_handler" value="userOrderHandler" />
+        <entry key="user_order_service" value="userOrderService" />
+        <entry key="user_service" value="userService" />
+        <entry key="world" value="World" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1713865281435" />
+  </component>
+</project>
